@@ -9,7 +9,7 @@ Every desk is a help desk
 ======================
 
 
-Ideas currently shaping my perspective:
+Ideas currently shaping my perspective about technical support:
 
 * Thinking about tech support as a [Multi-Objective Optimisation problem](https://codemonk.io/blog/a-gentle-introduction-to-multi-objective-optimization/)
 * [Making Users Awesome](https://www.youtube.com/watch?v=r4dNaflEgP4) (video)
