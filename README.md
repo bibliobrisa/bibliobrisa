@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**bibliobrisa/bibliobrisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hello 👋 from a Linux lifeguard dodging soggy leaves in Oregon. 
+----------------------------------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+Every desk is a help desk
+======================
+
+
+Ideas currently shaping my perspective:
+
+* Thinking about tech support as a [Multi-Objective Optimisation problem](https://codemonk.io/blog/a-gentle-introduction-to-multi-objective-optimization/)
+* [Making Users Awesome](https://www.youtube.com/watch?v=r4dNaflEgP4) (video)
+* [Jevons paradox](https://en.wikipedia.org/wiki/Jevons_paradox): Why don't efficiency gains lower resource consumption? Especially with computers? It's so weird! Here's an imperfect theory (wikipedia)
