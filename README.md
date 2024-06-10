@@ -3,12 +3,6 @@
 Hello 👋 from a Linux lifeguard dodging soggy leaves in Oregon. 
 ----------------------------------------------------------
 
-
-
-Every desk is a help desk
-======================
-
-
 Ideas currently shaping my perspective about technical support:
 
 * Thinking about tech support as a [Multi-Objective Optimisation problem](https://codemonk.io/blog/a-gentle-introduction-to-multi-objective-optimization/)
